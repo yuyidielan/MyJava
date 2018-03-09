@@ -1,2 +1,2 @@
 # MyJava
-there are some examples about learn JAVA;
+there are some examples from the book head First Java;
